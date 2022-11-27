@@ -7,6 +7,10 @@ public class general {
 		System.out.println("postJira12");
 		System.out.println("postJira123");
 		
+		System.out.println("postJira1234");
+		System.out.println("postJira12345");
+		System.out.println("postJira123456");
+		
 	}
 
 }
